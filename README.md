@@ -8,8 +8,8 @@ I tried my best to use martial design, the style of this app is displayed on fol
 
 APP中通信协议用到的是OKhttp，整个架构也很简单，界面很简洁，预告片的网址是自己去网页上爬下来的，下面是一些截图。
 
-![Main view](https://github.com/cherrow/myMovieApp/screenshots/mainview.png)
+![Main view](https://github.com/cherrow/myMovieApp/blob/master/screenshots/mainview.png)
 
-![Drawer](https://github.com/cherrow/myMovieApp/screenshots/drawer.png)
+![Drawer](https://github.com/cherrow/myMovieApp/blob/master/screenshots/drawer.png)
 
-![Movie detail](https://github.com/cherrow/myMovieApp/screenshots/detail.png)
+![Movie detail](https://github.com/cherrow/myMovieApp/blob/master/screenshots/detail.png)
