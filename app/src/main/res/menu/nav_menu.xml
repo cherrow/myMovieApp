@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_intheater"
+        android:title="正在热映"
+        android:icon="@drawable/ic_hot_black"/>
+    <item
+        android:id="@+id/nav_coming_soon"
+        android:title="即将上映"
+        android:icon="@drawable/ic_theater_black"/>
+    <item
+        android:id="@+id/nav_top250"
+        android:title="Top250"
+        android:icon="@drawable/ic_list_black"/>
+
+</group>
+</menu>
